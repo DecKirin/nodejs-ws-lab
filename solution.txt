@@ -1,7 +1,5 @@
 Question 1:
-<<<<<<< Updated upstream
   Can see a bunny and which is clickable, when clickable turns red.
-=======
   Can see a bunny and which is clickable. 
   On click turns red. 
   On drag moving with cursor.
@@ -22,4 +20,3 @@ Question 4:
 
 Question 5:
   
->>>>>>> Stashed changes
