@@ -1,0 +1,2 @@
+Question 1:
+  Can see a bunny and which is clickable, when clickable turns red.
