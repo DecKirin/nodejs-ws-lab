@@ -1,2 +1,25 @@
 Question 1:
+<<<<<<< Updated upstream
   Can see a bunny and which is clickable, when clickable turns red.
+=======
+  Can see a bunny and which is clickable. 
+  On click turns red. 
+  On drag moving with cursor.
+
+Question 2:
+  TypeScript is more modules oriented while javaScript is more script base.
+
+Question 3:
+  These bundles provide a fair amount for prebuild function for developer to use which reduce the diffculty of web development.
+  Parcel has a featrue of Zero configaration which means Parcel will automaticaly include the necessary plugins.
+
+Question 4:
+  readyState
+  0: The connection haven't been established yet but connecting.
+  1: The connection has been established and ready to communicate.
+  2: The connection is going to a closing process, and ready to close.
+  3: The connection has been closed or could not be opened.
+
+Question 5:
+  
+>>>>>>> Stashed changes
